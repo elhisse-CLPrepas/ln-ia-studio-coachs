@@ -11,7 +11,8 @@ Thumbs.db
 *.tmp
 
 # Local source images already copied into assets/img/
-VOUS REPARTIRER AVEC.png
-logo-clprepas.png
-programme-webinaire-Atelier-LN-IA.png
-webinaire-mardi-12-mai-2026.png
+/VOUS REPARTIRER AVEC.png
+/logo-clprepas.png
+/logo-ln-ia.png
+/programme-webinaire-Atelier-LN-IA.png
+/webinaire-mardi-12-mai-2026.png

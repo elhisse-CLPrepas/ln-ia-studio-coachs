@@ -13,4 +13,5 @@
 - Integration de la fiche participant `VOUS REPARTIRER AVEC.png` dans la section des benefices.
 - Amelioration du footer webinaire avec slogan, rappel evenement et CTA WhatsApp.
 - Consolidation GitHub Pages : `index.html` devient la landing page publiee, ajout FAQ, intervenant, `.gitignore` et message Facebook.
+- Remplacement du logo par `logo-ln-ia.png`, correction orthographique et amelioration du contraste de la landing page.
  
