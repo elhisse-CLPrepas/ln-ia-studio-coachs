@@ -1,0 +1,10 @@
+[
+  {
+    "question": "A qui s'adresse le Studio Coachs ?",
+    "answer": "Aux coachs, formateurs, enseignants, responsables pedagogiques et accompagnateurs qui veulent integrer l'IA dans leurs pratiques."
+  },
+  {
+    "question": "La version v0.1.0 est-elle une application complete ?",
+    "answer": "Non. v0.1.0 est une base statique de lancement, volontairement limitee."
+  }
+]

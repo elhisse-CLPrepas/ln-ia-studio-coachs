@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Decouvrir le coaching augmente",
+    "steps": [
+      "Comprendre le role du coach a l'ere de l'IA",
+      "Identifier les apports et limites de l'IA",
+      "Formuler un premier cas d'usage"
+    ]
+  },
+  {
+    "title": "Produire une trace pedagogique",
+    "steps": [
+      "Choisir un comportement a travailler",
+      "Construire un prompt de simulation",
+      "Documenter les apprentissages"
+    ]
+  }
+]

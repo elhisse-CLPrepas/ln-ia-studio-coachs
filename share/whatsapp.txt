@@ -1,0 +1,5 @@
+LAB-NUMERIQUE-IA - Studio Coachs
+
+Atelier special coachs : apprendre a utiliser l'IA pour mieux observer, formaliser, simuler et accompagner l'apprentissage de nouveaux comportements.
+
+Version de lancement : v0.1.0

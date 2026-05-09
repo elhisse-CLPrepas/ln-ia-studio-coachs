@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Cadrage atelier",
+    "prompt": "Aide-moi a transformer une idee d'atelier pour coachs en objectifs pedagogiques, livrables et criteres de validation."
+  },
+  {
+    "name": "Simulation coaching IA",
+    "prompt": "Simule un dialogue entre un coach et un apprenant qui cherche a adopter un nouveau comportement professionnel."
+  }
+]
