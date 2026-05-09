@@ -1,8 +1,8 @@
-# LAB-NUMERIQUE-IA - Studio Coachs
+# LAB-NUMÉRIQUE-IA - Studio Coachs
 
 Landing page no-framework pour le webinaire **LN-IA Studio Coachs**.
 
-Objectif : publier une page HTML/CSS/JavaScript simple sur GitHub Pages pour presenter le webinaire, son programme, les visuels, le lien WhatsApp et les informations de participation.
+Objectif : publier une page HTML/CSS/JavaScript simple sur GitHub Pages afin de présenter le webinaire, son programme, ses visuels, le lien WhatsApp et les informations de participation.
 
 ## Structure
 
@@ -33,72 +33,80 @@ ln-ia-studio-coachs/
 
 La page comprend :
 
-- titre du webinaire ;
-- programme en deux parties ;
-- intervenant et porteur de l'atelier ;
-- bouton WhatsApp ;
-- QR code integre dans la fiche participant ;
-- FAQ ;
-- appel a l'action final ;
-- metadonnees SEO et Open Graph de base.
+- le titre du webinaire ;
+- les métadonnées SEO et Open Graph de base ;
+- le nouveau logo LN-IA ;
+- une présentation du changement à l'échelle du monde ;
+- le public cible ;
+- le programme en deux parties ;
+- l'intervenant ;
+- une fiche participant ;
+- un bouton WhatsApp ;
+- un QR code intégré dans le visuel participant ;
+- une FAQ ;
+- un appel à l'action final.
 
 ## Utilisation locale
 
 Ouvrir directement `index.html` dans un navigateur.
 
-Aucun framework, build ou serveur local n'est necessaire.
+Aucun framework, build ou serveur local n'est nécessaire.
 
 ## Workflow Git simple
 
-Verifier l'etat du projet :
+Vérifier l'état du projet :
 
 ```bash
 git status
 ```
 
-Ajouter les fichiers :
+Ajouter les fichiers modifiés :
 
 ```bash
-git add index.html README.md .gitignore assets/css/style.css assets/js/app.js assets/img share/message-facebook.txt share/whatsapp.txt
+git add index.html webinaire.html README.md CHANGELOG.md assets/css/style.css assets/js/app.js assets/img share/message-facebook.txt share/whatsapp.txt
 ```
 
-Creer un commit :
+Créer un commit :
 
 ```bash
-git commit -m "Prepare LN-IA webinar landing page"
+git commit -m "Improve LN-IA webinar landing page"
 ```
 
-Creer un tag de version :
+Créer un tag de version :
 
 ```bash
-git tag v0.1.0
+git tag v0.1.3
 ```
 
 Pousser vers GitHub :
 
 ```bash
-git push -u origin main
-git push origin v0.1.0
+git push origin main
+git push origin v0.1.3
 ```
 
 ## Publication GitHub Pages
 
-Sur GitHub :
+Sur GitHub en français :
 
-1. Ouvrir le depot.
-2. Aller dans `Settings`.
-3. Ouvrir `Pages`.
-4. Choisir `Deploy from a branch`.
-5. Selectionner la branche a publier, par exemple `main`.
+1. Ouvrir le dépôt.
+2. Aller dans **Paramètres**.
+3. Ouvrir **Pages**.
+4. Dans **Source**, choisir **Déployer à partir d'une branche**.
+5. Sélectionner la branche `main`.
 6. Choisir le dossier `/root`.
-7. Enregistrer.
+7. Cliquer sur **Enregistrer**.
 
-GitHub Pages publie les fichiers statiques du depot. Pour ce projet, `index.html` doit rester a la racine de la branche publiee.
+GitHub Pages publie les fichiers statiques du dépôt. Pour ce projet, `index.html` doit rester à la racine de la branche publiée.
+
+Ne pas renseigner de domaine personnalisé pour le moment. L'adresse gratuite sera fournie par GitHub Pages.
 
 ## Versions
 
 - `v0.1.0` : squelette initial.
 - `v0.1.1` : landing page webinaire avec visuels, programme, fiche participant et CTA WhatsApp.
+- `v0.1.2` : consolidation GitHub Pages, README workflow, FAQ et message Facebook.
+- `v0.1.3` : amélioration du logo, des titres, des accents, du contraste et du responsive mobile.
 
 ## Sources
 
