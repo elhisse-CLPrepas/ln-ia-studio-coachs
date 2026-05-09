@@ -1,17 +1,39 @@
 # Changelog
 
-## v0.1.0 - En preparation
+## v0.2.0 - En préparation
 
-- Creation du squelette de depot.
+- Mise à jour du brief Codex pour amorcer la version atelier.
+- Alignement de la roadmap sur la suite post-publication.
+- Préparation de la transition entre landing page publiée et supports d'atelier.
+- Ajout d'un programme de formation aligné sur la landing page.
+- Ajout d'un déroulé d'atelier.
+- Ajout d'une checklist animateur.
+
+## v0.1.3 - Publié
+
+- Remplacement du logo par `logo-ln-ia.png`.
+- Correction orthographique et amélioration des accents.
+- Amélioration du contraste de la landing page.
+- Correction du responsive mobile.
+- Mise à jour du README.
+
+## v0.1.2 - Publié
+
+- Consolidation GitHub Pages : `index.html` devient la landing page publiée.
+- Ajout de la FAQ, de l'intervenant, du fichier `.gitignore` et du message Facebook.
+
+## v0.1.1 - Publié
+
+- Ajout d'une landing page parallèle pour le webinaire du 12 mai 2026.
+- Intégration de l'affiche LAB-NUMÉRIQUE-IA comme référence visuelle du webinaire.
+- Intégration de l'affiche dédiée `webinaire-mardi-12-mai-2026.png` dans la section public cible.
+- Ajout de l'affiche programme `programme-webinaire-Atelier-LN-IA.png` et mise à jour de la section Programme.
+- Intégration de la fiche participant `VOUS REPARTIRER AVEC.png` dans la section des bénéfices.
+- Amélioration du footer webinaire avec slogan, rappel événement et CTA WhatsApp.
+
+## v0.1.0 - Publié
+
+- Création du squelette de dépôt.
 - Ajout du README de cadrage.
-- Ajout du brief Codex limite a `v0.1.0`.
+- Ajout du brief Codex limité à `v0.1.0`.
 - Initialisation de la roadmap et du changelog.
-- Ajout d'une landing page parallele pour le webinaire du 12 mai 2026.
-- Integration de l'affiche LAB-NUMERIQUE-IA comme reference visuelle du webinaire.
-- Integration de l'affiche dediee `webinaire-mardi-12-mai-2026.png` dans la section public cible.
-- Ajout de l'affiche programme `programme-webinaire-Atelier-LN-IA.png` et mise a jour de la section Programme.
-- Integration de la fiche participant `VOUS REPARTIRER AVEC.png` dans la section des benefices.
-- Amelioration du footer webinaire avec slogan, rappel evenement et CTA WhatsApp.
-- Consolidation GitHub Pages : `index.html` devient la landing page publiee, ajout FAQ, intervenant, `.gitignore` et message Facebook.
-- Remplacement du logo par `logo-ln-ia.png`, correction orthographique et amelioration du contraste de la landing page.
- 

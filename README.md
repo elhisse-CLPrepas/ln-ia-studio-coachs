@@ -46,6 +46,16 @@ La page comprend :
 - une FAQ ;
 - un appel à l'action final.
 
+## Formation et atelier
+
+La version `v0.2.0` amorce la transformation de la landing page en base de formation.
+
+Supports en préparation :
+
+- `docs/atelier/programme-formation-ln-ia-sc.md`
+- `docs/atelier/deroule-atelier-ln-ia-sc.md`
+- `docs/atelier/checklist-animateur-ln-ia-sc.md`
+
 ## Utilisation locale
 
 Ouvrir directement `index.html` dans un navigateur.
@@ -107,6 +117,7 @@ Ne pas renseigner de domaine personnalisé pour le moment. L'adresse gratuite se
 - `v0.1.1` : landing page webinaire avec visuels, programme, fiche participant et CTA WhatsApp.
 - `v0.1.2` : consolidation GitHub Pages, README workflow, FAQ et message Facebook.
 - `v0.1.3` : amélioration du logo, des titres, des accents, du contraste et du responsive mobile.
+- `v0.2.0` : amorçage de la formation et des supports d'atelier.
 
 ## Sources
 
