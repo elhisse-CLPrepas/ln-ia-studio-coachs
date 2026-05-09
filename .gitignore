@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local source images already copied into assets/img/
+VOUS REPARTIRER AVEC.png
+logo-clprepas.png
+programme-webinaire-Atelier-LN-IA.png
+webinaire-mardi-12-mai-2026.png

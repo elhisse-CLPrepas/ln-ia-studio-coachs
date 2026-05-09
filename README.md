@@ -1,78 +1,114 @@
 # LAB-NUMERIQUE-IA - Studio Coachs
 
-LN-IA-SC est un depot de travail pour preparer, versionner et publier une premiere base de l'atelier **LAB-NUMERIQUE-IA - Studio Coachs**.
+Landing page no-framework pour le webinaire **LN-IA Studio Coachs**.
 
-Le projet transforme les documents sources sur le coaching augmente par IA en un support web simple, un kit pedagogique initial et une base de production exploitable avec VS Code, Codex, Git et GitHub.
+Objectif : publier une page HTML/CSS/JavaScript simple sur GitHub Pages pour presenter le webinaire, son programme, les visuels, le lien WhatsApp et les informations de participation.
 
-## Intention
-
-Produire un systeme d'apprentissage assiste par IA pour les coachs, formateurs, enseignants et accompagnateurs.
-
-La promesse de depart n'est pas de remplacer le coach par l'IA. Elle consiste a outiller le coach pour mieux observer, formaliser, simuler, produire, transmettre et accompagner l'apprentissage de nouveaux comportements.
-
-## Sources principales
-
-Les documents de reference du projet sont :
-
-- `guide_nouveaux_comportemant.docx` : guide pedagogique source sur l'apprentissage de nouveaux comportements a l'ere du coaching augmente par IA.
-- `document_technique_depot_LN_IA_SC.docx` : document technique de depot et de lancement.
-- `guide_orchestration_LN_IA_SC.docx` : guide operationnel d'orchestration.
-- `guide_chef_atelier.docx` : guide de pilotage pour preparer, lancer et controler le travail avec Codex dans VS Code.
-
-Les copies de travail doivent etre rangees dans `docs/source/`.
-
-## Structure du depot
+## Structure
 
 ```text
 ln-ia-studio-coachs/
-├── README.md
-├── BRIEF-CODEX.md
-├── ROADMAP.md
-├── CHANGELOG.md
-├── LICENSE
-├── docs/
-│   ├── source/
-│   └── guide-ln-ia-sc.docx
-├── data/
-│   ├── flashcards.json
-│   ├── faq.json
-│   ├── prompts.json
-│   └── parcours.json
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── img/
-├── share/
-└── index.html
+|-- index.html
+|-- webinaire.html
+|-- README.md
+|-- .gitignore
+|-- BRIEF-CODEX.md
+|-- ROADMAP.md
+|-- CHANGELOG.md
+|-- LICENSE
+|-- assets/
+|   |-- css/
+|   |   `-- style.css
+|   |-- js/
+|   |   `-- app.js
+|   `-- img/
+|-- share/
+|   |-- message-facebook.txt
+|   `-- whatsapp.txt
+|-- data/
+`-- docs/
 ```
 
-## Objectif v0.1.0
+## Contenu de la landing page
 
-La version `v0.1.0` doit rester volontairement limitee.
+La page comprend :
 
-Elle vise a obtenir :
-
-- une structure de depot propre ;
-- un README de cadrage ;
-- un brief Codex court et executable ;
-- une page `index.html` statique minimale ;
-- des fichiers de donnees JSON valides ;
-- les documents sources et visuels ranges aux bons emplacements ;
-- une base prete pour un premier commit et une future release GitHub.
-
-Hors perimetre `v0.1.0` :
-
-- application complexe ;
-- back-end ;
-- authentification ;
-- automatisation avancee ;
-- design final ;
-- contenus pedagogiques exhaustifs.
+- titre du webinaire ;
+- programme en deux parties ;
+- intervenant et porteur de l'atelier ;
+- bouton WhatsApp ;
+- QR code integre dans la fiche participant ;
+- FAQ ;
+- appel a l'action final ;
+- metadonnees SEO et Open Graph de base.
 
 ## Utilisation locale
 
-Ouvrir directement `index.html` dans un navigateur suffit pour cette premiere version statique.
+Ouvrir directement `index.html` dans un navigateur.
 
-## Pilotage Codex
+Aucun framework, build ou serveur local n'est necessaire.
 
-La mission active de Codex est de produire uniquement la base `v0.1.0` de LN-IA-SC, sans ajouter de fonctionnalites non demandees. Les consignes detaillees sont dans `BRIEF-CODEX.md`.
+## Workflow Git simple
+
+Verifier l'etat du projet :
+
+```bash
+git status
+```
+
+Ajouter les fichiers :
+
+```bash
+git add index.html README.md .gitignore assets/css/style.css assets/js/app.js assets/img share/message-facebook.txt share/whatsapp.txt
+```
+
+Creer un commit :
+
+```bash
+git commit -m "Prepare LN-IA webinar landing page"
+```
+
+Creer un tag de version :
+
+```bash
+git tag v0.1.0
+```
+
+Pousser vers GitHub :
+
+```bash
+git push -u origin main
+git push origin v0.1.0
+```
+
+## Publication GitHub Pages
+
+Sur GitHub :
+
+1. Ouvrir le depot.
+2. Aller dans `Settings`.
+3. Ouvrir `Pages`.
+4. Choisir `Deploy from a branch`.
+5. Selectionner la branche a publier, par exemple `main`.
+6. Choisir le dossier `/root`.
+7. Enregistrer.
+
+GitHub Pages publie les fichiers statiques du depot. Pour ce projet, `index.html` doit rester a la racine de la branche publiee.
+
+## Versions
+
+- `v0.1.0` : squelette initial.
+- `v0.1.1` : landing page webinaire avec visuels, programme, fiche participant et CTA WhatsApp.
+
+## Sources
+
+Documents de cadrage :
+
+- `guide_nouveaux_comportemant.docx`
+- `document_technique_depot_LN_IA_SC.docx`
+- `guide_orchestration_LN_IA_SC.docx`
+- `guide_chef_atelier.docx`
+
+Documentation utile :
+
+- GitHub Pages : https://docs.github.com/pages

@@ -12,4 +12,5 @@
 - Ajout de l'affiche programme `programme-webinaire-Atelier-LN-IA.png` et mise a jour de la section Programme.
 - Integration de la fiche participant `VOUS REPARTIRER AVEC.png` dans la section des benefices.
 - Amelioration du footer webinaire avec slogan, rappel evenement et CTA WhatsApp.
+- Consolidation GitHub Pages : `index.html` devient la landing page publiee, ajout FAQ, intervenant, `.gitignore` et message Facebook.
  

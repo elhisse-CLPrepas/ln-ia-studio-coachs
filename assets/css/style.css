@@ -322,6 +322,68 @@ article p,
   height: auto;
 }
 
+.speaker-section,
+.qr-section {
+  display: grid;
+  grid-template-columns: minmax(320px, 1fr) minmax(260px, 0.6fr);
+  gap: 32px;
+  align-items: center;
+}
+
+.speaker-section p,
+.qr-section p {
+  max-width: 760px;
+  line-height: 1.75;
+  font-size: 1.08rem;
+}
+
+.speaker-card {
+  padding: 28px;
+  color: #fff;
+  background: #1e2428;
+  border: 1px solid #f2c86b;
+}
+
+.speaker-card span {
+  display: block;
+  margin-bottom: 18px;
+  color: #f2c86b;
+  font-size: 2.4rem;
+  font-weight: 800;
+}
+
+.speaker-card p {
+  margin: 0;
+}
+
+.qr-section {
+  background: #eef4ef;
+  width: 100%;
+  padding-inline: max(16px, calc((100% - 1120px) / 2));
+}
+
+.faq-list {
+  display: grid;
+  gap: 12px;
+  max-width: 900px;
+}
+
+.faq-list details {
+  border: 1px solid #d8d5ce;
+  background: #fff;
+  padding: 18px 20px;
+}
+
+.faq-list summary {
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.faq-list p {
+  margin: 12px 0 0;
+  line-height: 1.65;
+}
+
 .registration-band {
   display: flex;
   align-items: center;
@@ -460,6 +522,12 @@ footer p {
   }
 
   .takeaways-section {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .speaker-section,
+  .qr-section {
     grid-template-columns: 1fr;
     gap: 24px;
   }
