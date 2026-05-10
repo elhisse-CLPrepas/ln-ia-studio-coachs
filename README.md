@@ -74,6 +74,7 @@ Supports en préparation :
 - `docs/atelier/cartes-facilitation-ln-ia.md`
 - `docs/atelier/checklist-technique-webinaire.md`
 - `docs/atelier/compte-rendu-post-atelier.md`
+- `docs/atelier/process-zoom-ia-ln-ia.md`
 
 ## Utilisation locale
 

@@ -28,6 +28,7 @@
 - Ajout des cartes de facilitation.
 - Ajout de la checklist technique webinaire.
 - Ajout de la trame de compte-rendu post-atelier.
+- Ajout du process Zoom IA - LN-IA.
 
 ## v0.1.3 - Publié
 
