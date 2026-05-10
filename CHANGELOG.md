@@ -14,6 +14,8 @@
 - Ajout d'une fiche d'évaluation.
 - Ajout d'un plan de slides.
 - Ajout du conducteur de session 2h avec vision, atelier pratique et discussion guidée.
+- Ajout du dossier source de la partie 1.
+- Ajout du skill IA d'optimisation de landing page.
 
 ## v0.1.3 - Publié
 

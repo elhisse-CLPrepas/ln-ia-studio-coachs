@@ -30,6 +30,8 @@
 - Produire une fiche d'évaluation.
 - Préparer un plan de slides.
 - Produire le conducteur de session 2h.
+- Produire le dossier source de la partie 1.
+- Préparer le skill IA d'optimisation de landing page.
 - Aligner `README.md`, `BRIEF-CODEX.md`, `ROADMAP.md` et `CHANGELOG.md`.
 - Préparer un tag et une release `v0.2.0`.
 

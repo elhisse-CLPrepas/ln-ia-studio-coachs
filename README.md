@@ -61,6 +61,8 @@ Supports en préparation :
 - `docs/atelier/evaluation-formation-ln-ia-sc.md`
 - `docs/atelier/plan-slides-ln-ia-sc.md`
 - `docs/atelier/session-2h-ln-ia-sc.md`
+- `docs/atelier/dossier-source-partie-1-vision-ln-ia.md`
+- `docs/atelier/skill-optimisation-landing-page-ln-ia.md`
 
 ## Utilisation locale
 
