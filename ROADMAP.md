@@ -25,6 +25,10 @@
 - Extraire une fiche de déroulé atelier.
 - Produire une checklist animateur.
 - Structurer les supports participant.
+- Produire les prompts d'atelier.
+- Produire une grille d'analyse de landing page.
+- Produire une fiche d'évaluation.
+- Préparer un plan de slides.
 - Aligner `README.md`, `BRIEF-CODEX.md`, `ROADMAP.md` et `CHANGELOG.md`.
 - Préparer un tag et une release `v0.2.0`.
 

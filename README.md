@@ -55,6 +55,11 @@ Supports en préparation :
 - `docs/atelier/programme-formation-ln-ia-sc.md`
 - `docs/atelier/deroule-atelier-ln-ia-sc.md`
 - `docs/atelier/checklist-animateur-ln-ia-sc.md`
+- `docs/atelier/fiche-participant-ln-ia-sc.md`
+- `docs/atelier/prompts-atelier-ln-ia-sc.md`
+- `docs/atelier/grille-analyse-landing-page.md`
+- `docs/atelier/evaluation-formation-ln-ia-sc.md`
+- `docs/atelier/plan-slides-ln-ia-sc.md`
 
 ## Utilisation locale
 

@@ -8,6 +8,11 @@
 - Ajout d'un programme de formation aligné sur la landing page.
 - Ajout d'un déroulé d'atelier.
 - Ajout d'une checklist animateur.
+- Ajout d'une fiche participant.
+- Ajout d'une banque de prompts d'atelier.
+- Ajout d'une grille d'analyse de landing page.
+- Ajout d'une fiche d'évaluation.
+- Ajout d'un plan de slides.
 
 ## v0.1.3 - Publié
 
