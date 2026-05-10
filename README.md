@@ -77,6 +77,11 @@ Supports en préparation :
 - `docs/atelier/process-zoom-ia-ln-ia.md`
 - `docs/atelier/module-skill-zoom-ia-salle-pedagogique-augmentee.md`
 
+## Documents auteur
+
+- `docs/auteur/ambition-auteur.md`
+- `docs/auteur/ambition-auteur.docx`
+
 ## Utilisation locale
 
 Ouvrir directement `index.html` dans un navigateur.

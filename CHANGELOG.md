@@ -30,6 +30,7 @@
 - Ajout de la trame de compte-rendu post-atelier.
 - Ajout du process Zoom IA - LN-IA.
 - Ajout du module Skill Zoom IA - Salle pédagogique augmentée.
+- Ajout du document auteur `ambition-auteur.docx` et de sa source Markdown.
 
 ## v0.1.3 - Publié
 

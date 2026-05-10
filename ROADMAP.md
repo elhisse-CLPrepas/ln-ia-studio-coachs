@@ -54,3 +54,4 @@
 - Produire un kit atelier complet.
 - Ajouter les supports de facilitation.
 - Préparer une release GitHub documentée.
+- Structurer les documents auteur et la vision longue LN-IA.
