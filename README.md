@@ -70,6 +70,10 @@ Supports en préparation :
 - `docs/atelier/offre-atelier-ln-ia-coachs-managers.md`
 - `docs/atelier/script-animation-2h-ln-ia-sc.md`
 - `docs/atelier/fiche-collecte-besoins-public.md`
+- `docs/atelier/guide-animateur-ln-ia-sc.md`
+- `docs/atelier/cartes-facilitation-ln-ia.md`
+- `docs/atelier/checklist-technique-webinaire.md`
+- `docs/atelier/compte-rendu-post-atelier.md`
 
 ## Utilisation locale
 

@@ -24,6 +24,10 @@
 - Ajout d'une première offre atelier Coachs & Managers.
 - Ajout du script d'animation 2h minute par minute.
 - Ajout de la fiche de collecte des besoins du public.
+- Ajout du guide animateur.
+- Ajout des cartes de facilitation.
+- Ajout de la checklist technique webinaire.
+- Ajout de la trame de compte-rendu post-atelier.
 
 ## v0.1.3 - Publié
 

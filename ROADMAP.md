@@ -39,6 +39,10 @@
 - Préparer une offre atelier coachs et managers.
 - Produire le script d'animation minute par minute.
 - Produire une fiche de collecte des besoins du public.
+- Produire le guide animateur.
+- Produire les cartes de facilitation.
+- Produire la checklist technique webinaire.
+- Produire la trame de compte-rendu post-atelier.
 - Aligner `README.md`, `BRIEF-CODEX.md`, `ROADMAP.md` et `CHANGELOG.md`.
 - Préparer un tag et une release `v0.2.0`.
 
