@@ -60,6 +60,7 @@ Supports en préparation :
 - `docs/atelier/grille-analyse-landing-page.md`
 - `docs/atelier/evaluation-formation-ln-ia-sc.md`
 - `docs/atelier/plan-slides-ln-ia-sc.md`
+- `docs/atelier/session-2h-ln-ia-sc.md`
 
 ## Utilisation locale
 

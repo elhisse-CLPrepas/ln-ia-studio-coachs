@@ -13,6 +13,7 @@
 - Ajout d'une grille d'analyse de landing page.
 - Ajout d'une fiche d'évaluation.
 - Ajout d'un plan de slides.
+- Ajout du conducteur de session 2h avec vision, atelier pratique et discussion guidée.
 
 ## v0.1.3 - Publié
 
