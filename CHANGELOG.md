@@ -22,6 +22,8 @@
 - Ajout de la fiche méthode Orchestration LN-IA.
 - Ajout du canevas d'exercice Orchestration IA.
 - Ajout d'une première offre atelier Coachs & Managers.
+- Ajout du script d'animation 2h minute par minute.
+- Ajout de la fiche de collecte des besoins du public.
 
 ## v0.1.3 - Publié
 

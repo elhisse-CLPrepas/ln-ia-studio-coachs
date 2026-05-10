@@ -68,6 +68,8 @@ Supports en préparation :
 - `docs/atelier/fiche-methode-orchestration-ln-ia.md`
 - `docs/atelier/canevas-exercice-orchestration-ia.md`
 - `docs/atelier/offre-atelier-ln-ia-coachs-managers.md`
+- `docs/atelier/script-animation-2h-ln-ia-sc.md`
+- `docs/atelier/fiche-collecte-besoins-public.md`
 
 ## Utilisation locale
 

@@ -37,6 +37,8 @@
 - Produire une fiche méthode d'orchestration.
 - Produire un canevas d'exercice participant.
 - Préparer une offre atelier coachs et managers.
+- Produire le script d'animation minute par minute.
+- Produire une fiche de collecte des besoins du public.
 - Aligner `README.md`, `BRIEF-CODEX.md`, `ROADMAP.md` et `CHANGELOG.md`.
 - Préparer un tag et une release `v0.2.0`.
 
