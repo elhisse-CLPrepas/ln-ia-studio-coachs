@@ -63,6 +63,8 @@ Supports en préparation :
 - `docs/atelier/session-2h-ln-ia-sc.md`
 - `docs/atelier/dossier-source-partie-1-vision-ln-ia.md`
 - `docs/atelier/skill-optimisation-landing-page-ln-ia.md`
+- `docs/atelier/manifeste-ln-ia-orchestration.md`
+- `docs/atelier/module-orchestration-ia.md`
 
 ## Utilisation locale
 

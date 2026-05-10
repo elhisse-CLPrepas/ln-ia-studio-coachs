@@ -16,6 +16,9 @@
 - Ajout du conducteur de session 2h avec vision, atelier pratique et discussion guidée.
 - Ajout du dossier source de la partie 1.
 - Ajout du skill IA d'optimisation de landing page.
+- Ajout du manifeste LN-IA sur l'orchestration IA.
+- Ajout du module de formation "De l'usage de l'IA à l'orchestration IA".
+- Mise à jour du conducteur 2h avec le coach et le manager comme orchestrateurs IA.
 
 ## v0.1.3 - Publié
 

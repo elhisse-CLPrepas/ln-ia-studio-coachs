@@ -8,6 +8,8 @@
 
 En 2 heures, les participants comprennent les grandes transformations liées à l'IA, voient une démonstration pratique avec un skill IA préparé, puis identifient les besoins réels auxquels le projet LN-IA peut répondre.
 
+La session introduit aussi une idée centrale : à l'ère de l'accélération, le coach et le manager augmentés par IA deviennent des orchestrateurs. Ils ne se contentent pas d'utiliser des outils ; ils relient intention, IA, méthode, livrables, vérification et impact humain.
+
 ## Public
 
 - Coachs.
@@ -123,7 +125,7 @@ Message clé :
 
 L'IA ne remplace pas la pensée. Elle oblige à mieux penser.
 
-### Séquence 4 - Changement professionnel
+### Séquence 4 - Orchestration IA et changement professionnel
 
 Durée : 15 minutes.
 
@@ -131,6 +133,7 @@ Idées à couvrir :
 
 - développement moderne ;
 - skills IA ;
+- orchestration IA ;
 - production rapide de supports ;
 - versionnement ;
 - publication ;
@@ -139,7 +142,11 @@ Idées à couvrir :
 
 Message clé :
 
-Les coachs et managers auront besoin de méthodes, de skills IA et d'ateliers pratiques pour transformer leurs idées en livrables utiles.
+Les coachs et managers auront besoin de méthodes, de skills IA et d'ateliers pratiques pour orchestrer leurs idées, leurs outils et leurs livrables.
+
+Formule à retenir :
+
+> Un professionnel augmenté par IA n'est pas celui qui demande le plus vite. C'est celui qui orchestre le mieux.
 
 ## Transition vers la partie 2
 
@@ -222,6 +229,7 @@ Solutions possibles :
 
 - ateliers pratiques ;
 - skills IA prêts à l'emploi ;
+- formation à l'orchestration IA ;
 - supports pédagogiques ;
 - fiches participant ;
 - prompts structurés ;
@@ -232,6 +240,10 @@ Solutions possibles :
 Message de clôture :
 
 > Le développement moderne ne consiste pas seulement à utiliser des outils. Il consiste à développer de nouvelles compétences : clarifier, dialoguer avec l'IA, produire, vérifier, corriger, publier et apprendre. LN-IA accompagne cette transformation avec une méthode humaine, éthique et praticable.
+
+Slogan possible :
+
+> LN-IA : apprendre à orchestrer l'IA pour amplifier l'impact humain.
 
 ## Livrables à préparer après cette session
 

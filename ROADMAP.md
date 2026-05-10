@@ -32,6 +32,8 @@
 - Produire le conducteur de session 2h.
 - Produire le dossier source de la partie 1.
 - Préparer le skill IA d'optimisation de landing page.
+- Poser le manifeste LN-IA sur l'orchestration IA.
+- Ajouter un module de formation sur l'orchestration IA.
 - Aligner `README.md`, `BRIEF-CODEX.md`, `ROADMAP.md` et `CHANGELOG.md`.
 - Préparer un tag et une release `v0.2.0`.
 
