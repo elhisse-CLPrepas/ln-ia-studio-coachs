@@ -75,6 +75,7 @@ Supports en préparation :
 - `docs/atelier/checklist-technique-webinaire.md`
 - `docs/atelier/compte-rendu-post-atelier.md`
 - `docs/atelier/process-zoom-ia-ln-ia.md`
+- `docs/atelier/module-skill-zoom-ia-salle-pedagogique-augmentee.md`
 
 ## Utilisation locale
 

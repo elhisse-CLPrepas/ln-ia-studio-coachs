@@ -44,6 +44,7 @@
 - Produire la checklist technique webinaire.
 - Produire la trame de compte-rendu post-atelier.
 - Produire le process Zoom IA - LN-IA.
+- Ajouter le module Skill Zoom IA - Salle pédagogique augmentée.
 - Aligner `README.md`, `BRIEF-CODEX.md`, `ROADMAP.md` et `CHANGELOG.md`.
 - Préparer un tag et une release `v0.2.0`.
 
