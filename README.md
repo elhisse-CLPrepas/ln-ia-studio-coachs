@@ -65,6 +65,9 @@ Supports en préparation :
 - `docs/atelier/skill-optimisation-landing-page-ln-ia.md`
 - `docs/atelier/manifeste-ln-ia-orchestration.md`
 - `docs/atelier/module-orchestration-ia.md`
+- `docs/atelier/fiche-methode-orchestration-ln-ia.md`
+- `docs/atelier/canevas-exercice-orchestration-ia.md`
+- `docs/atelier/offre-atelier-ln-ia-coachs-managers.md`
 
 ## Utilisation locale
 

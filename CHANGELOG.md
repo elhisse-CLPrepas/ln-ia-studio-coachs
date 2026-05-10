@@ -19,6 +19,9 @@
 - Ajout du manifeste LN-IA sur l'orchestration IA.
 - Ajout du module de formation "De l'usage de l'IA à l'orchestration IA".
 - Mise à jour du conducteur 2h avec le coach et le manager comme orchestrateurs IA.
+- Ajout de la fiche méthode Orchestration LN-IA.
+- Ajout du canevas d'exercice Orchestration IA.
+- Ajout d'une première offre atelier Coachs & Managers.
 
 ## v0.1.3 - Publié
 

@@ -34,6 +34,9 @@
 - Préparer le skill IA d'optimisation de landing page.
 - Poser le manifeste LN-IA sur l'orchestration IA.
 - Ajouter un module de formation sur l'orchestration IA.
+- Produire une fiche méthode d'orchestration.
+- Produire un canevas d'exercice participant.
+- Préparer une offre atelier coachs et managers.
 - Aligner `README.md`, `BRIEF-CODEX.md`, `ROADMAP.md` et `CHANGELOG.md`.
 - Préparer un tag et une release `v0.2.0`.
 
