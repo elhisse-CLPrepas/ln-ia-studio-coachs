@@ -89,6 +89,8 @@ Supports operationnels pour animer une seance Zoom LN-IA :
 - `docs/zoom/collecte-questions-besoins-zoom-ln-ia.md`
 - `docs/zoom/message-post-seance-zoom-ln-ia.md`
 - `docs/zoom/compte-rendu-seance-zoom-ln-ia.md`
+- `docs/zoom/dossier-zoom-workplace-ln-ia.md`
+- `docs/zoom/dossier-zoom-workplace-ln-ia.docx`
 
 ## Documents auteur
 

@@ -33,6 +33,7 @@
 - Ajout du document auteur `ambition-auteur.docx` et de sa source Markdown.
 - Ajout du kit operationnel de seance Zoom LN-IA : support animateur, fiche participant, checklist et script.
 - Ajout des supports complementaires Zoom : plan de slides, collecte des besoins, message post-seance et compte-rendu.
+- Ajout du dossier Zoom Workplace LN-IA en Markdown et Word, avec analyse du compte licence, usages pedagogiques et recommandations de securite.
 
 ## v0.1.3 - Publié
 
