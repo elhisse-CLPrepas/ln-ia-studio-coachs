@@ -77,6 +77,19 @@ Supports en préparation :
 - `docs/atelier/process-zoom-ia-ln-ia.md`
 - `docs/atelier/module-skill-zoom-ia-salle-pedagogique-augmentee.md`
 
+## Kit seance Zoom
+
+Supports operationnels pour animer une seance Zoom LN-IA :
+
+- `docs/zoom/support-seance-zoom-ln-ia.md`
+- `docs/zoom/fiche-participant-zoom-ln-ia.md`
+- `docs/zoom/checklist-seance-zoom-ln-ia.md`
+- `docs/zoom/script-ouverture-cloture-zoom-ln-ia.md`
+- `docs/zoom/plan-slides-seance-zoom-ln-ia.md`
+- `docs/zoom/collecte-questions-besoins-zoom-ln-ia.md`
+- `docs/zoom/message-post-seance-zoom-ln-ia.md`
+- `docs/zoom/compte-rendu-seance-zoom-ln-ia.md`
+
 ## Documents auteur
 
 - `docs/auteur/ambition-auteur.md`

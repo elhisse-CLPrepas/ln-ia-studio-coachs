@@ -31,6 +31,8 @@
 - Ajout du process Zoom IA - LN-IA.
 - Ajout du module Skill Zoom IA - Salle pédagogique augmentée.
 - Ajout du document auteur `ambition-auteur.docx` et de sa source Markdown.
+- Ajout du kit operationnel de seance Zoom LN-IA : support animateur, fiche participant, checklist et script.
+- Ajout des supports complementaires Zoom : plan de slides, collecte des besoins, message post-seance et compte-rendu.
 
 ## v0.1.3 - Publié
 
