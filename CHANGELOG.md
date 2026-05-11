@@ -34,6 +34,7 @@
 - Ajout du kit operationnel de seance Zoom LN-IA : support animateur, fiche participant, checklist et script.
 - Ajout des supports complementaires Zoom : plan de slides, collecte des besoins, message post-seance et compte-rendu.
 - Ajout du dossier Zoom Workplace LN-IA en Markdown et Word, avec analyse du compte licence, usages pedagogiques et recommandations de securite.
+- Amelioration de la landing page avec une section Presentation Zoom et une section Optimisation de landing page.
 
 ## v0.1.3 - Publié
 
