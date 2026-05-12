@@ -103,11 +103,16 @@ Supports opérationnels pour animer une séance Zoom LN-IA :
 ## Présentations
 
 - `docs/presentation/ln-ia-studio-coachs-webinaire-12-mai-2026.pptx`
+- `docs/presentation/presentation-lab-num-ctm.pptx`
+- `docs/presentation/analyse-presentation-lab-num-ctm.md`
+- `docs/presentation/ln-ia-studio-coachs-lab-numerique-adapte.pptx`
+- `docs/presentation/ln-ia-atelier-landing-page-optimisee.pptx`
 
 ## Release GitHub
 
 - `docs/release-github-v0.2.17.md`
 - `docs/release-github-v0.2.18.md`
+- `docs/release-github-v0.2.19.md`
 
 ## Utilisation locale
 
@@ -175,6 +180,7 @@ Ne pas renseigner de domaine personnalisé pour le moment. L'adresse gratuite se
 - `v0.2.16` : optimisation SEO, performance images et accessibilité clavier.
 - `v0.2.17` : kit atelier complet, sélection des modèles IA et supports de facilitation avancés.
 - `v0.2.18` : présentation PowerPoint professionnelle pour le webinaire du 12 mai 2026.
+- `v0.2.19` : adaptation LN-IA d'une présentation laboratoire et présentation pratique landing page optimisée.
 
 ## Sources
 

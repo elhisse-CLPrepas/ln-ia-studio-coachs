@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.2.19 - En préparation
+
+- Analyse du fichier `presentation-lab-num-ctm.pptx` et de son fil narratif.
+- Ajout d'une présentation adaptée LN-IA Studio Coachs à partir de la structure laboratoire.
+- Ajout d'une présentation dédiée à la partie pratique "landing page optimisée".
+- Ajout d'un générateur reproductible pour les présentations complémentaires.
+- Perfectionnement du design des présentations avec cartes, comparaison avant/après et timeline.
+- Mise à jour du README et ajout d'une note de release GitHub.
+
 ## v0.2.18 - En préparation
 
 - Ajout d'une présentation PowerPoint professionnelle pour le webinaire du 12 mai 2026.

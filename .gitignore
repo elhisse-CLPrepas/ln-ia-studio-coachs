@@ -5,11 +5,13 @@ Thumbs.db
 # Editor folders
 .vscode/
 .idea/
+__pycache__/
 
 # Logs and temporary files
 *.log
 *.tmp
 ~$*.pptx
+* \[Réparé\].pptx
 
 # Local source images already copied into assets/img/
 /VOUS REPARTIRER AVEC.png
