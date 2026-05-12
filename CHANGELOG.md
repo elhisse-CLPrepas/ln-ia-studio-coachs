@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.2.16 - En préparation
+
+- Optimisation des métadonnées SEO et Open Graph.
+- Préchargement du visuel principal et optimisation du chargement des images secondaires.
+- Ajout d'un lien d'évitement clavier et d'états de focus visibles.
+- Amélioration des états hover des liens de navigation et boutons d'action.
+- Mise à jour du footer de la landing page en `v0.2.16`.
+
 ## v0.2.15 - En préparation
 
 - Correction des accents dans les nouvelles sections Zoom et Optimisation de landing page.

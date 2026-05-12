@@ -4,6 +4,10 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -19,8 +23,31 @@ a {
   text-decoration: none;
 }
 
+a:focus-visible,
+summary:focus-visible {
+  outline: 3px solid #f2c86b;
+  outline-offset: 4px;
+}
+
 img {
   max-width: 100%;
+  height: auto;
+}
+
+.skip-link {
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  z-index: 10;
+  transform: translateY(-180%);
+  padding: 10px 14px;
+  color: #101820;
+  background: #f2c86b;
+  font-weight: 800;
+}
+
+.skip-link:focus {
+  transform: translateY(0);
 }
 
 .hero {
@@ -53,6 +80,15 @@ img {
   margin: 0 auto;
   padding: 18px 0;
   font-size: 0.95rem;
+}
+
+.topbar a:not(.brand-lockup) {
+  padding: 8px 0;
+  border-bottom: 2px solid transparent;
+}
+
+.topbar a:not(.brand-lockup):hover {
+  border-bottom-color: #f2c86b;
 }
 
 .webinar-hero .topbar {
@@ -160,11 +196,23 @@ h1 {
   color: #14201c;
   background: #a9dfbf;
   font-weight: 700;
+  transition:
+    background-color 160ms ease,
+    transform 160ms ease;
+}
+
+.primary-action:hover {
+  background: #c8f0d5;
+  transform: translateY(-1px);
 }
 
 .primary-action.dark {
   color: #fff;
   background: #1e2428;
+}
+
+.primary-action.dark:hover {
+  background: #101820;
 }
 
 .section {
