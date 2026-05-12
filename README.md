@@ -72,6 +72,9 @@ Supports en préparation :
 - `docs/atelier/fiche-collecte-besoins-public.md`
 - `docs/atelier/guide-animateur-ln-ia-sc.md`
 - `docs/atelier/cartes-facilitation-ln-ia.md`
+- `docs/atelier/supports-facilitation-avances-ln-ia.md`
+- `docs/atelier/selection-modeles-ia-ln-ia.md`
+- `docs/atelier/kit-atelier-complet-ln-ia.md`
 - `docs/atelier/checklist-technique-webinaire.md`
 - `docs/atelier/compte-rendu-post-atelier.md`
 - `docs/atelier/process-zoom-ia-ln-ia.md`
@@ -96,6 +99,10 @@ Supports opérationnels pour animer une séance Zoom LN-IA :
 
 - `docs/auteur/ambition-auteur.md`
 - `docs/auteur/ambition-auteur.docx`
+
+## Release GitHub
+
+- `docs/release-github-v0.2.17.md`
 
 ## Utilisation locale
 
@@ -160,6 +167,8 @@ Ne pas renseigner de domaine personnalisé pour le moment. L'adresse gratuite se
 - `v0.1.3` : amélioration du logo, des titres, des accents, du contraste et du responsive mobile.
 - `v0.2.0` : amorçage de la formation et des supports d'atelier.
 - `v0.2.15` : finitions de publication, accents des nouvelles sections et footer aligné.
+- `v0.2.16` : optimisation SEO, performance images et accessibilité clavier.
+- `v0.2.17` : kit atelier complet, sélection des modèles IA et supports de facilitation avancés.
 
 ## Sources
 

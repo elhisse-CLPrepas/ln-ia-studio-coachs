@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.2.17 - En préparation
+
+- Ajout du kit atelier complet LN-IA Studio Coachs.
+- Ajout d'une fiche de sélection des modèles IA adaptés à l'activité.
+- Ajout de supports de facilitation avancés pour l'animateur.
+- Ajout d'une note de release GitHub prête à publier.
+- Mise à jour du README avec les nouveaux livrables.
+
 ## v0.2.16 - En préparation
 
 - Optimisation des métadonnées SEO et Open Graph.
