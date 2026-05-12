@@ -77,9 +77,9 @@ Supports en préparation :
 - `docs/atelier/process-zoom-ia-ln-ia.md`
 - `docs/atelier/module-skill-zoom-ia-salle-pedagogique-augmentee.md`
 
-## Kit seance Zoom
+## Kit séance Zoom
 
-Supports operationnels pour animer une seance Zoom LN-IA :
+Supports opérationnels pour animer une séance Zoom LN-IA :
 
 - `docs/zoom/support-seance-zoom-ln-ia.md`
 - `docs/zoom/fiche-participant-zoom-ln-ia.md`
@@ -120,20 +120,20 @@ git add index.html webinaire.html README.md CHANGELOG.md assets/css/style.css as
 Créer un commit :
 
 ```bash
-git commit -m "Improve LN-IA webinar landing page"
+git commit -m "Polish LN-IA Studio Coachs release"
 ```
 
 Créer un tag de version :
 
 ```bash
-git tag v0.1.3
+git tag v0.2.15
 ```
 
 Pousser vers GitHub :
 
 ```bash
 git push origin main
-git push origin v0.1.3
+git push origin v0.2.15
 ```
 
 ## Publication GitHub Pages
@@ -159,6 +159,7 @@ Ne pas renseigner de domaine personnalisé pour le moment. L'adresse gratuite se
 - `v0.1.2` : consolidation GitHub Pages, README workflow, FAQ et message Facebook.
 - `v0.1.3` : amélioration du logo, des titres, des accents, du contraste et du responsive mobile.
 - `v0.2.0` : amorçage de la formation et des supports d'atelier.
+- `v0.2.15` : finitions de publication, accents des nouvelles sections et footer aligné.
 
 ## Sources
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.2.15 - En préparation
+
+- Correction des accents dans les nouvelles sections Zoom et Optimisation de landing page.
+- Mise à jour du footer de la landing page en `v0.2.15`.
+- Alignement des commandes de release sur le prochain tag disponible.
+
 ## v0.2.0 - En préparation
 
 - Mise à jour du brief Codex pour amorcer la version atelier.
@@ -31,10 +37,10 @@
 - Ajout du process Zoom IA - LN-IA.
 - Ajout du module Skill Zoom IA - Salle pédagogique augmentée.
 - Ajout du document auteur `ambition-auteur.docx` et de sa source Markdown.
-- Ajout du kit operationnel de seance Zoom LN-IA : support animateur, fiche participant, checklist et script.
-- Ajout des supports complementaires Zoom : plan de slides, collecte des besoins, message post-seance et compte-rendu.
-- Ajout du dossier Zoom Workplace LN-IA en Markdown et Word, avec analyse du compte licence, usages pedagogiques et recommandations de securite.
-- Amelioration de la landing page avec une section Presentation Zoom et une section Optimisation de landing page.
+- Ajout du kit opérationnel de séance Zoom LN-IA : support animateur, fiche participant, checklist et script.
+- Ajout des supports complémentaires Zoom : plan de slides, collecte des besoins, message post-séance et compte-rendu.
+- Ajout du dossier Zoom Workplace LN-IA en Markdown et Word, avec analyse du compte licence, usages pédagogiques et recommandations de sécurité.
+- Amélioration de la landing page avec une section Présentation Zoom et une section Optimisation de landing page.
 
 ## v0.1.3 - Publié
 
