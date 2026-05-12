@@ -9,6 +9,7 @@ Thumbs.db
 # Logs and temporary files
 *.log
 *.tmp
+~$*.pptx
 
 # Local source images already copied into assets/img/
 /VOUS REPARTIRER AVEC.png

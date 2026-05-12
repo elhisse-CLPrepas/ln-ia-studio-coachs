@@ -100,9 +100,14 @@ Supports opérationnels pour animer une séance Zoom LN-IA :
 - `docs/auteur/ambition-auteur.md`
 - `docs/auteur/ambition-auteur.docx`
 
+## Présentations
+
+- `docs/presentation/ln-ia-studio-coachs-webinaire-12-mai-2026.pptx`
+
 ## Release GitHub
 
 - `docs/release-github-v0.2.17.md`
+- `docs/release-github-v0.2.18.md`
 
 ## Utilisation locale
 
@@ -169,6 +174,7 @@ Ne pas renseigner de domaine personnalisé pour le moment. L'adresse gratuite se
 - `v0.2.15` : finitions de publication, accents des nouvelles sections et footer aligné.
 - `v0.2.16` : optimisation SEO, performance images et accessibilité clavier.
 - `v0.2.17` : kit atelier complet, sélection des modèles IA et supports de facilitation avancés.
+- `v0.2.18` : présentation PowerPoint professionnelle pour le webinaire du 12 mai 2026.
 
 ## Sources
 

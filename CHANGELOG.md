@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.2.18 - En préparation
+
+- Ajout d'une présentation PowerPoint professionnelle pour le webinaire du 12 mai 2026.
+- Génération d'un support participant en 12 slides selon le plan `docs/atelier/plan-slides-ln-ia-sc.md`.
+- Ajout d'un générateur OpenXML reproductible pour recréer le fichier `.pptx`.
+- Ajout d'une note de release GitHub pour `v0.2.18`.
+
 ## v0.2.17 - En préparation
 
 - Ajout du kit atelier complet LN-IA Studio Coachs.
