@@ -32,6 +32,7 @@
         <a href="#top">Accueil</a>
         <a href="#programme">Programme</a>
         <a href="#atelier">Atelier</a>
+        <a href="#replay">Replay</a>
         <a href="#inscription">Inscription</a>
       </nav>
 
@@ -271,6 +272,56 @@
             loading="lazy"
             decoding="async"
           >
+        </div>
+      </section>
+
+      <section id="replay" class="section replay-section" data-replay-section>
+        <div class="replay-copy">
+          <p class="kicker">Replay du webinaire</p>
+          <h2>Fournir votre mail pour t&eacute;l&eacute;charger le replay</h2>
+          <p>
+            Entrez votre adresse email pour activer la vid&eacute;o du webinaire
+            et afficher le lien de t&eacute;l&eacute;chargement.
+          </p>
+          <form class="replay-form" data-replay-form>
+            <label for="replay-email">Votre email</label>
+            <div class="replay-form-row">
+              <input
+                id="replay-email"
+                name="email"
+                type="email"
+                autocomplete="email"
+                placeholder="votre.email@example.com"
+                required
+                data-replay-email
+              >
+              <button class="primary-action dark" type="submit">
+                Activer le replay
+              </button>
+            </div>
+            <p class="replay-message" data-replay-message aria-live="polite"></p>
+          </form>
+        </div>
+        <div class="replay-player" data-replay-player aria-hidden="true">
+          <div class="replay-lock" data-replay-lock>
+            <span>Replay verrouill&eacute;</span>
+            <p>La vid&eacute;o sera disponible apr&egrave;s la saisie de votre email.</p>
+          </div>
+          <div class="replay-video" data-replay-video hidden>
+            <iframe
+              title="Replay du webinaire LN-IA Studio Coachs"
+              src="https://drive.google.com/file/d/1FVQArnrnkuY5tbUpvDrSh7wNN6z7x51A/preview"
+              allow="autoplay"
+              loading="lazy"
+            ></iframe>
+            <a
+              class="primary-action"
+              href="https://drive.google.com/uc?export=download&id=1FVQArnrnkuY5tbUpvDrSh7wNN6z7x51A"
+              rel="noopener"
+            >
+              T&eacute;l&eacute;charger le replay
+            </a>
+          </div>
         </div>
       </section>
 
