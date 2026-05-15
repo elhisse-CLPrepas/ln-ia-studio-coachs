@@ -46,6 +46,9 @@ if (replaySection) {
   };
 
   const savedEmail = storage.get();
+  const isIos =
+    /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+    (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
   if (savedEmail) {
     emailInput.value = savedEmail;
     unlockReplay(savedEmail);
@@ -61,5 +64,9 @@ if (replaySection) {
     }
 
     unlockReplay(emailInput.value.trim());
+    if (isIos) {
+      message.textContent =
+        "Replay activé. Sur iPhone, utilisez le bouton Google Drive puis l'option Partager ou Télécharger.";
+    }
   });
 }
