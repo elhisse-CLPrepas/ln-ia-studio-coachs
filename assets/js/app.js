@@ -42,7 +42,7 @@ if (replaySection) {
     player.removeAttribute("aria-hidden");
     lock.hidden = true;
     video.hidden = false;
-    message.textContent = "Replay activé. Vous pouvez regarder ou télécharger la vidéo.";
+    message.textContent = "Replay activé. Vous pouvez regarder la vidéo ou l'ouvrir sur Google Drive.";
   };
 
   const savedEmail = storage.get();
@@ -66,7 +66,7 @@ if (replaySection) {
     unlockReplay(emailInput.value.trim());
     if (isIos) {
       message.textContent =
-        "Replay activé. Sur iPhone, utilisez le bouton Google Drive puis l'option Partager ou Télécharger.";
+        "Replay activé. Sur iPhone, ouvrez Google Drive puis utilisez les options de partage ou d'enregistrement.";
     }
   });
 }

@@ -591,9 +591,13 @@ article p,
 }
 
 .replay-actions {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr;
   gap: 10px;
+}
+
+.replay-actions .primary-action {
+  width: 100%;
 }
 
 .replay-lock[hidden],
@@ -919,7 +923,6 @@ footer p {
   }
 
   .replay-actions {
-    display: grid;
     grid-template-columns: 1fr;
   }
 
