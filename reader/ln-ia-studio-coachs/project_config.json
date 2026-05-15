@@ -1,0 +1,20 @@
+{
+  "title": "LN-IA Studio Coachs - Lecteur Web",
+  "author": "LAB-NUMERIQUE-IA",
+  "language": "fr",
+  "project_type": "pdf_web_reader",
+  "brand": "LN-IA",
+  "brand_full": "LAB-NUMERIQUE-IA",
+  "factory": "LN-IA Livre Factory",
+  "logo_path": "../../logo-LN-IA.png",
+  "source_pdf": "sources/ln-ia-studio-coachs-lab-numerique-V1.pdf",
+  "page_count": 22,
+  "aspect_ratio": "16:9",
+  "image_format": "jpg",
+  "image_quality": 86,
+  "reader_entry": "index.html",
+  "deployment_targets": [
+    "GitHub Pages",
+    "clprepas.com"
+  ]
+}
