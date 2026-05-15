@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta
       name="description"
-      content="Webinaire LAB-NUMÉRIQUE-IA - Studio Coachs, mardi 12 mai 2026 à 20h00 GMT+1."
+      content="Webinaire LAB-NUMÉRIQUE-IA - Studio Coachs, Mardi 19 Mai 2026 - webinaire 3."
     >
     <meta name="theme-color" content="#101820">
     <link rel="canonical" href="https://elhisse-clprepas.github.io/ln-ia-studio-coachs/">
     <link rel="preload" as="image" href="assets/img/og.jpg">
+    <link rel="icon" type="image/png" href="assets/img/logo-LN-IA.png">
     <meta property="og:title" content="Comment l'IA transforme le coaching">
     <meta
       property="og:description"
@@ -26,12 +27,14 @@
     <header class="webinar-hero">
       <nav class="topbar" aria-label="Navigation principale">
         <a class="brand-lockup" href="#top" aria-label="Retour au début de la page">
-          <img src="assets/img/logo-ln-ia.png" alt="LN-IA" class="partner-logo" width="138" height="44" decoding="async">
+          <img src="assets/img/logo-LN-IA.png" alt="LN-IA" class="partner-logo" width="240" height="76" decoding="async">
           <span>LAB-NUMÉRIQUE-IA</span>
         </a>
         <a href="#top">Accueil</a>
         <a href="#programme">Programme</a>
         <a href="#atelier">Atelier</a>
+        <a href="#lecteur">Lecteur</a>
+        <a href="#replay">Replay</a>
         <a href="#inscription">Inscription</a>
       </nav>
 
@@ -44,8 +47,8 @@
           comment accompagner les nouveaux comportements ?
         </p>
         <div class="event-strip" aria-label="Informations du webinaire">
-          <span>Mardi 12 mai 2026</span>
-          <span>20h00 GMT+1</span>
+          <span>Mardi 19 Mai 2026</span>
+          <span>Webinaire 3</span>
           <span>Zoom via WhatsApp</span>
         </div>
         <a
@@ -107,7 +110,7 @@
         <div class="audience-poster">
           <img
             src="assets/img/affiche-webinaire-mardi-12-mai-2026.png"
-            alt="Affiche du webinaire LN-IA Studio Coachs du mardi 12 mai 2026"
+            alt="Affiche du webinaire LN-IA Studio Coachs du Mardi 19 Mai 2026"
             width="900"
             height="900"
             loading="lazy"
@@ -181,14 +184,22 @@
             <span>Partager</span>
           </div>
         </div>
-        <div class="zoom-workshop-panel">
-          <h3>Le fil de la présentation</h3>
-          <ol>
-            <li>Vision : comprendre le changement IA.</li>
-            <li>Pratique : observer un skill IA en action.</li>
-            <li>Dialogue : faire émerger les besoins des coachs et managers.</li>
-            <li>Suite : rejoindre la communauté et produire un premier livrable.</li>
-          </ol>
+        <div id="lecteur" class="zoom-workshop-panel workshop-reader-panel">
+          <div class="workshop-reader-header">
+            <h3>Lire la présentation LN-IA Studio Coachs</h3>
+            <a
+              class="primary-action"
+              href="reader/ln-ia-studio-coachs/index.html"
+            >
+              Plein écran
+            </a>
+          </div>
+          <iframe
+            class="workshop-reader-frame"
+            title="Lecteur Web LN-IA Studio Coachs"
+            src="reader/ln-ia-studio-coachs/index.html"
+            loading="lazy"
+          ></iframe>
         </div>
       </section>
 
@@ -274,6 +285,56 @@
         </div>
       </section>
 
+      <section id="replay" class="section replay-section" data-replay-section>
+        <div class="replay-copy">
+          <p class="kicker">Replay du webinaire</p>
+          <h2>Fournir votre mail pour t&eacute;l&eacute;charger le replay</h2>
+          <p>
+            Entrez votre adresse email pour activer la vid&eacute;o du webinaire
+            et afficher le lien de t&eacute;l&eacute;chargement.
+          </p>
+          <form class="replay-form" data-replay-form>
+            <label for="replay-email">Votre email</label>
+            <div class="replay-form-row">
+              <input
+                id="replay-email"
+                name="email"
+                type="email"
+                autocomplete="email"
+                placeholder="votre.email@example.com"
+                required
+                data-replay-email
+              >
+              <button class="primary-action dark" type="submit">
+                Activer le replay
+              </button>
+            </div>
+            <p class="replay-message" data-replay-message aria-live="polite"></p>
+          </form>
+        </div>
+        <div class="replay-player" data-replay-player aria-hidden="true">
+          <div class="replay-lock" data-replay-lock>
+            <span>Replay verrouill&eacute;</span>
+            <p>La vid&eacute;o sera disponible apr&egrave;s la saisie de votre email.</p>
+          </div>
+          <div class="replay-video" data-replay-video hidden>
+            <iframe
+              title="Replay du webinaire LN-IA Studio Coachs"
+              src="https://drive.google.com/file/d/1FVQArnrnkuY5tbUpvDrSh7wNN6z7x51A/preview"
+              allow="autoplay"
+              loading="lazy"
+            ></iframe>
+            <a
+              class="primary-action"
+              href="https://drive.google.com/uc?export=download&id=1FVQArnrnkuY5tbUpvDrSh7wNN6z7x51A"
+              rel="noopener"
+            >
+              T&eacute;l&eacute;charger le replay
+            </a>
+          </div>
+        </div>
+      </section>
+
       <section id="inscription" class="section registration-band">
         <div>
           <h2>Inscription</h2>
@@ -344,19 +405,19 @@
           </p>
         </div>
         <div class="footer-action">
-          <p class="footer-date">Mardi 12 mai 2026 - 20h00 GMT+1</p>
+          <p class="footer-date">Mardi 19 Mai 2026 - webinaire 3</p>
           <a
             class="primary-action"
             href="https://chat.whatsapp.com/L900Zbek15j3tBtkJnpKaI"
             rel="noopener"
           >
-            Réserver ma place sur WhatsApp
+            Rejoindre le webinaire 3 sur WhatsApp
           </a>
           <p class="footer-note">Le lien Zoom sera partagé dans le groupe.</p>
         </div>
       </div>
       <div class="footer-bottom">
-        <span>LN-IA-SC v0.2.16</span>
+        <span>LN-IA-SC - webinaire 3</span>
         <span>Ensemble, transformons l'IA en impact humain.</span>
       </div>
     </footer>
