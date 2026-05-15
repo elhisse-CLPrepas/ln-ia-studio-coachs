@@ -20,16 +20,32 @@ if (replaySection) {
   const lock = replaySection.querySelector("[data-replay-lock]");
   const video = replaySection.querySelector("[data-replay-video]");
   const storageKey = "lnIaReplayEmail";
+  const storage = {
+    get() {
+      try {
+        return localStorage.getItem(storageKey);
+      } catch {
+        return "";
+      }
+    },
+    set(email) {
+      try {
+        localStorage.setItem(storageKey, email);
+      } catch {
+        // The replay still unlocks when browser storage is unavailable.
+      }
+    },
+  };
 
   const unlockReplay = (email) => {
-    if (email) localStorage.setItem(storageKey, email);
+    if (email) storage.set(email);
     player.removeAttribute("aria-hidden");
     lock.hidden = true;
     video.hidden = false;
-    message.textContent = "Replay active. Vous pouvez regarder ou telecharger la video.";
+    message.textContent = "Replay activé. Vous pouvez regarder ou télécharger la vidéo.";
   };
 
-  const savedEmail = localStorage.getItem(storageKey);
+  const savedEmail = storage.get();
   if (savedEmail) {
     emailInput.value = savedEmail;
     unlockReplay(savedEmail);
