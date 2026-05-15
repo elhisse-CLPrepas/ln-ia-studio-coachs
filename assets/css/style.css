@@ -431,6 +431,30 @@ article p,
   line-height: 1.55;
 }
 
+.workshop-reader-panel {
+  display: grid;
+  gap: 16px;
+  padding: 22px;
+}
+
+.workshop-reader-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.workshop-reader-header h3 {
+  margin: 0;
+}
+
+.workshop-reader-frame {
+  width: 100%;
+  min-height: 520px;
+  background: #101820;
+  border: 1px solid rgba(242, 200, 107, 0.35);
+}
+
 .optimization-section {
   width: 100%;
   padding-inline: max(16px, calc((100% - 1120px) / 2));
@@ -471,40 +495,6 @@ article p,
   display: block;
   width: 100%;
   height: auto;
-}
-
-.reader-embed-section {
-  display: grid;
-  grid-template-columns: minmax(0, 0.42fr) minmax(0, 0.58fr);
-  gap: 28px;
-  align-items: stretch;
-}
-
-.reader-embed-copy {
-  display: grid;
-  align-content: center;
-  justify-items: start;
-  padding: 30px;
-  color: #f8f3ea;
-  background: #101820;
-  border-left: 6px solid #f2c86b;
-}
-
-.reader-embed-copy h2 {
-  color: #f2c86b;
-}
-
-.reader-embed-copy p {
-  max-width: 620px;
-  line-height: 1.72;
-  font-size: 1.08rem;
-}
-
-.reader-embed-frame {
-  width: 100%;
-  min-height: 680px;
-  background: #101820;
-  border: 1px solid #d8d5ce;
 }
 
 .replay-section {
@@ -886,6 +876,15 @@ footer p {
     padding: 22px;
   }
 
+  .workshop-reader-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .workshop-reader-frame {
+    min-height: 560px;
+  }
+
   .workshop-flow {
     grid-template-columns: 1fr;
   }
@@ -897,19 +896,6 @@ footer p {
   .takeaways-section {
     grid-template-columns: 1fr;
     gap: 24px;
-  }
-
-  .reader-embed-section {
-    grid-template-columns: 1fr;
-    gap: 18px;
-  }
-
-  .reader-embed-copy {
-    padding: 22px;
-  }
-
-  .reader-embed-frame {
-    min-height: 620px;
   }
 
   .replay-section {
